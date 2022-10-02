@@ -1,0 +1,22 @@
+#search-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#search-button{
+    background-color: rgb(25, 25, 112);
+    width: 100px;
+    border-radius: 10px;
+    color:white;
+    height: 40px;
+}
+
+#search-button:hover{
+    background-color: #9E1139;
+    width: 100px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 900;
+}

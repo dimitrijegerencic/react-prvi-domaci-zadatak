@@ -1,0 +1,16 @@
+#list-button, #statistics-button, #search-nav-button{
+    background-color: #9E1139;
+    width: 100px;
+    border-radius: 40px;
+    color:white;
+}
+
+#list-button:hover, #statistics-button:hover, #search-nav-button:hover{
+
+
+    background-color: rgb(25, 25, 112);
+    width: 100px;
+    border-radius: 40px;
+    color:white;
+    height: 40px;
+}

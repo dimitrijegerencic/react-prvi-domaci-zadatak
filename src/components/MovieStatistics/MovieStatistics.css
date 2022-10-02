@@ -1,0 +1,28 @@
+hr {
+    color: indigo;
+    border-top: 2px solid indigo;
+}
+
+#table-section{
+    border-radius: 30px;
+}
+
+table{
+    text-align: center;
+}
+thead{
+    font-size: 35px;
+    font-weight: 300;
+}
+th{
+    font-width: 300;
+}
+
+td{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+#statistics-table{
+    border-radius: 10px;
+}
